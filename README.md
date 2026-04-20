@@ -7,7 +7,7 @@ A collection of projects exploring the full spectrum of NLP, from fundamental te
 ## 🚀 Featured Projects
 
 ### 📊 Professional Skill Analysis Project
-**Tech Stack** Python, NLP, LangChain, Google Gemini API, Streamlit, PyPDF2
+**Tech Stack** Python, NLP, Streamlit, PyPDF2
 
 **Description** An automated tool designed to bridge the gap between job seekers and industry requirements by analyzing resumes against specific job descriptions. The application leverages Large Language Models (LLMs) to extract key information from PDF documents, evaluate skill sets, and provide a percentage-based match score. It identifies missing keywords and offers actionable insights to help candidates optimize their profiles for Applicant Tracking Systems (ATS).
 
